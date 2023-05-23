@@ -1,6 +1,4 @@
-# Applied Machine Learning Homework 1 
+# Applied Machine Learning Projects
 
-## Team Members:
-* Rohith Manjunatha Prasad (romanju)
-* Sushma Shivshankar Nandiyawar (sushnand)
-* Harshini M N (hmn)
+Data Processing and Linear Regression:
+The goal of this problem is for you to explore how to properly analyze, visualize, split, clean and format data and perform linear regression, polynomial regression and regularization. Datasets used are happiness_data.csv and diabetic_data.csv.
